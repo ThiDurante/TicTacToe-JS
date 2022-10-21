@@ -42,3 +42,22 @@ main {
   width: 100px;
   border: var(--border)
 }
+
+.reset {
+  margin-top: 20px;
+}
+
+.X {
+  color: blue;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 600;
+}
+
+.O {
+  color: red;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 600;
+
+}
