@@ -11,6 +11,15 @@ header {
   width: 100%;
   border: var(--border);
   text-align: center;
+  background: linear-gradient(to left, rgb(45, 59, 77), rgb(11, 27, 77)) ;
+
+}
+
+h1 {
+  font-size: 5rem;
+  background: linear-gradient(to right, rgb(255, 0, 0), rgb(204, 169, 146)) ;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 main { 
